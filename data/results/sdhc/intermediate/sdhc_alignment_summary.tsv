@@ -1,0 +1,6 @@
+metric	value
+family	TCA_cycle_Succ_Dhydrogenase_subunit_C
+alignment_total	273
+viral_from_alignment	0
+cellular_from_alignment	221
+unmatched_or_other	52

@@ -18,11 +18,14 @@ env/
 Thumbs.db
 .idea/
 .vscode/
+.codex/
 
 # Project data and generated outputs
-data/
 initial_raw/
 logs/
 figures/
+data/results/sod/pdbaa.phr
+data/results/sod/pdbaa.tar.gz
+data/results/sod/taxdb.btd
 
-# Keep the repository lightweight by tracking code and documentation only.
+# Keep large raw side directories and generated artifacts out of the repo by default.

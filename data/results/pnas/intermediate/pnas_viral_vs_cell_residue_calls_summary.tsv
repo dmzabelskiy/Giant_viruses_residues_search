@@ -1,0 +1,10 @@
+metric	value
+family	Phosphate_Sodium(Na)_symporter
+n_alignment_sequences	163
+n_viral_sequences	12
+n_cellular_sequences	151
+n_positions	1107
+n_passes_gap_filter	296
+n_eligible_positions	291
+n_rankpct_high_confidence	10
+n_rankpct_moderate_confidence	18

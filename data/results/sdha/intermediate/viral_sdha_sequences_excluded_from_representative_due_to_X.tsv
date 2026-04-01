@@ -1,0 +1,3 @@
+seq_id	length	x_count	x_fraction	description
+ERX552254.5|contig_9118_31|MM01	530	105	0.19811320754716982	ERX552254.5|contig_9118_31|MM01 source=viral family=TCA_succinate_dehydrogenase_subunit_A mag=ERX552254.5 protein=contig_9118_31 clade=MM01
+ERX555967.26|contig_3048_54|MM01	725	103	0.14206896551724138	ERX555967.26|contig_3048_54|MM01 source=viral family=TCA_succinate_dehydrogenase_subunit_A mag=ERX555967.26 protein=contig_3048_54 clade=MM01

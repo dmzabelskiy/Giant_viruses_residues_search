@@ -1,0 +1,10 @@
+metric	value
+family	Glycolysis_Glyc_3_P_dehydrogenase
+n_alignment_sequences	277
+n_viral_sequences	51
+n_cellular_sequences	226
+n_positions	1109
+n_passes_gap_filter	285
+n_eligible_positions	285
+n_rankpct_high_confidence	16
+n_rankpct_moderate_confidence	20

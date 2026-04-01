@@ -1,0 +1,12 @@
+seq_id	score	matched_sites	mismatched_sites	gap_or_x_sites	high_confidence_matches	high_confidence_total	moderate_confidence_matches	moderate_confidence_total	high_confidence_match_fraction	moderate_confidence_match_fraction	raw_length	description
+SRX802143.100|contig_59986_5|MM07	2.806298276886513	4	0	0	1	1	3	3	1.0	1.0	179	SRX802143.100|contig_59986_5|MM07 source=viral family=Ferritin mag=SRX802143.100 protein=contig_59986_5 clade=MM07
+SRX802143.125|contig_8432_9|IR01	2.806298276886513	4	0	0	1	1	3	3	1.0	1.0	177	SRX802143.125|contig_8432_9|IR01 source=viral family=Ferritin mag=SRX802143.125 protein=contig_8432_9 clade=IR01
+ERX552257.96|contig_58673_1|MM11	2.806298276886513	4	0	0	1	1	3	3	1.0	1.0	176	ERX552257.96|contig_58673_1|MM11 source=viral family=Ferritin mag=ERX552257.96 protein=contig_58673_1 clade=MM11
+ERX555963.2|contig_72872_15|MM07	2.806298276886513	4	0	0	1	1	3	3	1.0	1.0	171	ERX555963.2|contig_72872_15|MM07 source=viral family=Ferritin mag=ERX555963.2 protein=contig_72872_15 clade=MM07
+ERX552274.9|contig_93856_14|MM01	2.029906912259854	3	1	0	1	1	2	3	1.0	0.6666666666666666	189	ERX552274.9|contig_93856_14|MM01 source=viral family=Ferritin mag=ERX552274.9 protein=contig_93856_14 clade=MM01
+ERX555915.1|contig_52625_12|MM08	1.9803921568627456	3	1	0	1	1	2	3	1.0	0.6666666666666666	181	ERX555915.1|contig_52625_12|MM08 source=viral family=Ferritin mag=ERX555915.1 protein=contig_52625_12 clade=MM08
+ERX552270.107|contig_1408_32|MM05	1.918993860170331	3	1	0	1	1	2	3	1.0	0.6666666666666666	174	ERX552270.107|contig_1408_32|MM05 source=viral family=Ferritin mag=ERX552270.107 protein=contig_1408_32 clade=MM05
+ERX555933.51|contig_25536_4|MM06	1.2040007922360867	2	2	0	1	1	1	3	1.0	0.3333333333333333	176	ERX555933.51|contig_25536_4|MM06 source=viral family=Ferritin mag=ERX555933.51 protein=contig_25536_4 clade=MM06
+ERX552244.9|contig_20694_8|MM01	1.0116359675183204	2	2	0	0	1	2	3	0.0	0.6666666666666666	181	ERX552244.9|contig_20694_8|MM01 source=viral family=Ferritin mag=ERX552244.9 protein=contig_20694_8 clade=MM01
+ERX556043.42|contig_69503_11|MM15	0.9007229154287978	2	2	0	0	1	2	3	0.0	0.6666666666666666	206	ERX556043.42|contig_69503_11|MM15 source=viral family=Ferritin mag=ERX556043.42 protein=contig_69503_11 clade=MM15
+SRX802077.35|contig_5485_45|MM13	0.3166963755199049	1	3	0	1	1	0	3	1.0	0.0	205	SRX802077.35|contig_5485_45|MM13 source=viral family=Ferritin mag=SRX802077.35 protein=contig_5485_45 clade=MM13

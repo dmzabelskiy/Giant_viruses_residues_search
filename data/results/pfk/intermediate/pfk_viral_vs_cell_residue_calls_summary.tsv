@@ -1,0 +1,10 @@
+metric	value
+family	Glycolysis_phosphofructokinase
+n_alignment_sequences	172
+n_viral_sequences	1
+n_cellular_sequences	171
+n_positions	1113
+n_passes_gap_filter	306
+n_eligible_positions	289
+n_rankpct_high_confidence	0
+n_rankpct_moderate_confidence	41

@@ -1,0 +1,19 @@
+metric	value
+family	Superoxide_dismutase
+threshold_method	auto:max(q10, median-3.0*MAD)
+min_length_threshold	153
+viral_total	73
+viral_full_length_like	65
+viral_fragments	8
+cellular_length_n	198
+cellular_length_min	119.0
+cellular_length_q05	151.85
+cellular_length_q10	153.7
+cellular_length_q25	161.0
+cellular_length_median	174.0
+cellular_length_q75	191.75
+cellular_length_q90	213.0
+cellular_length_max	230.0
+cellular_length_mad	15.0
+cellular_length_robust_floor_median_minus_3mad	129.0
+cellular_length_chosen_min_length	153.0

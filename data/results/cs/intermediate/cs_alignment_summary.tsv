@@ -1,0 +1,6 @@
+metric	value
+family	TCA_cycle_Citrate_synthase
+alignment_total	198
+viral_from_alignment	13
+cellular_from_alignment	185
+unmatched_or_other	0

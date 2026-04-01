@@ -1,0 +1,10 @@
+metric	value
+family	TCA_cycle_Aconitase
+n_alignment_sequences	128
+n_viral_sequences	21
+n_cellular_sequences	107
+n_positions	1064
+n_passes_gap_filter	834
+n_eligible_positions	627
+n_rankpct_high_confidence	39
+n_rankpct_moderate_confidence	30

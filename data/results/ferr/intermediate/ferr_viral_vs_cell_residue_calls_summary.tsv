@@ -1,0 +1,10 @@
+metric	value
+family	Ferritin
+n_alignment_sequences	211
+n_viral_sequences	11
+n_cellular_sequences	200
+n_positions	356
+n_passes_gap_filter	154
+n_eligible_positions	154
+n_rankpct_high_confidence	1
+n_rankpct_moderate_confidence	3

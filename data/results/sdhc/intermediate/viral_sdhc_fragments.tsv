@@ -1,0 +1,4 @@
+clean_id	mag_id_short	protein_token	clade	raw_label	fasta_file	length_aa
+ERX552270.100|contig_9516_7|MM01	ERX552270.100	contig_9516_7	MM01	ERX552270.100.fa.dc..contig_9516_7...MM01	ERX552270.100.fa.dc.faa	82
+ERX555967.81|contig_20121_32|MM01	ERX555967.81	contig_20121_32	MM01	ERX555967.81.fa.dc..contig_20121_32...MM01	ERX555967.81.fa.dc.faa	69
+ERX556028.57|contig_19068_56|MM01	ERX556028.57	contig_19068_56	MM01	ERX556028.57.fa.dc..contig_19068_56...MM01	ERX556028.57.fa.dc.faa	117

@@ -1,0 +1,19 @@
+metric	value
+family	Phosphate_permease
+threshold_method	auto:max(q10, median-3.0*MAD)
+min_length_threshold	279
+viral_total	92
+viral_full_length_like	75
+viral_fragments	17
+cellular_length_n	272
+cellular_length_min	96.0
+cellular_length_q05	211.3
+cellular_length_q10	279.0
+cellular_length_q25	300.0
+cellular_length_median	357.5
+cellular_length_q75	463.0
+cellular_length_q90	524.0
+cellular_length_max	552.0
+cellular_length_mad	73.5
+cellular_length_robust_floor_median_minus_3mad	137.0
+cellular_length_chosen_min_length	279.0

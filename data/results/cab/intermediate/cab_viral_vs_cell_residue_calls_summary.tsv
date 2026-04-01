@@ -1,0 +1,10 @@
+metric	value
+family	Chl_ab_binding_proteins
+n_alignment_sequences	387
+n_viral_sequences	124
+n_cellular_sequences	263
+n_positions	918
+n_passes_gap_filter	33
+n_eligible_positions	33
+n_rankpct_high_confidence	0
+n_rankpct_moderate_confidence	1

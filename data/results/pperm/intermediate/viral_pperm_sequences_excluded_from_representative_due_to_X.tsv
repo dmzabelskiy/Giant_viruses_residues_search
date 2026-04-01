@@ -1,0 +1,5 @@
+seq_id	length	x_count	x_fraction	description
+ERX552285.69|contig_12819_16|MM05	283	139	0.4911660777385159	ERX552285.69|contig_12819_16|MM05 source=viral family=Phosphate_permease mag=ERX552285.69 protein=contig_12819_16 clade=MM05
+ERX552283.12|contig_11175_21|LP01	553	134	0.2423146473779385	ERX552283.12|contig_11175_21|LP01 source=viral family=Phosphate_permease mag=ERX552283.12 protein=contig_11175_21 clade=LP01
+ERX552270.62|contig_9540_28|MM01	376	110	0.2925531914893617	ERX552270.62|contig_9540_28|MM01 source=viral family=Phosphate_permease mag=ERX552270.62 protein=contig_9540_28 clade=MM01
+ERX556091.17|contig_2052_2|MM12	571	98	0.17162872154115585	ERX556091.17|contig_2052_2|MM12 source=viral family=Phosphate_permease mag=ERX556091.17 protein=contig_2052_2 clade=MM12

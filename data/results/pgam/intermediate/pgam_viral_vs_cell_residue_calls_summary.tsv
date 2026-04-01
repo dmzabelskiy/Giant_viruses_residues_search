@@ -1,0 +1,10 @@
+metric	value
+family	Glycolysis_phophoglycerate_mutase
+n_alignment_sequences	194
+n_viral_sequences	26
+n_cellular_sequences	168
+n_positions	885
+n_passes_gap_filter	186
+n_eligible_positions	183
+n_rankpct_high_confidence	1
+n_rankpct_moderate_confidence	12

@@ -1,0 +1,2 @@
+seq_id	score	matched_sites	mismatched_sites	gap_or_x_sites	high_confidence_matches	high_confidence_total	moderate_confidence_matches	moderate_confidence_total	high_confidence_match_fraction	moderate_confidence_match_fraction	raw_length	description
+ERX556043.42|contig_22521_22|MM15	41.0	41	0	0	0	0	41	41	0.0	1.0	405	ERX556043.42|contig_22521_22|MM15 source=viral family=Glycolysis_phosphofructokinase mag=ERX556043.42 protein=contig_22521_22 clade=MM15

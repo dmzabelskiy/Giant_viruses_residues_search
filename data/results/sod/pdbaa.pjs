@@ -1,0 +1,27 @@
+{
+  "version": "1.2",
+  "dbname": "pdbaa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "PDB protein database",
+  "number-of-letters": 53125217,
+  "number-of-sequences": 183415,
+  "last-updated": "2026-03-29T05:37:00",
+  "number-of-volumes": 1,
+  "number-of-taxids": 9555,
+  "bytes-total": 247487208,
+  "bytes-to-cache": 54776057,
+  "files": [
+    "pdbaa.pdb",
+    "pdbaa.phr",
+    "pdbaa.pin",
+    "pdbaa.pog",
+    "pdbaa.pos",
+    "pdbaa.pot",
+    "pdbaa.ppd",
+    "pdbaa.ppi",
+    "pdbaa.psq",
+    "pdbaa.ptf",
+    "pdbaa.pto"
+  ]
+}

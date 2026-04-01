@@ -1,0 +1,10 @@
+metric	value
+family	Rhodopsin
+n_alignment_sequences	763
+n_viral_sequences	148
+n_cellular_sequences	615
+n_positions	556
+n_passes_gap_filter	87
+n_eligible_positions	87
+n_rankpct_high_confidence	4
+n_rankpct_moderate_confidence	5

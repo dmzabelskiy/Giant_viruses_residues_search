@@ -1,0 +1,10 @@
+metric	value
+family	Phosphate_permease
+n_alignment_sequences	347
+n_viral_sequences	75
+n_cellular_sequences	272
+n_positions	1201
+n_passes_gap_filter	288
+n_eligible_positions	288
+n_rankpct_high_confidence	22
+n_rankpct_moderate_confidence	20

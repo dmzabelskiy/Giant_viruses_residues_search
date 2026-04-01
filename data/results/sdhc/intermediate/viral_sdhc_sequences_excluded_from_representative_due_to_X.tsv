@@ -1,0 +1,4 @@
+seq_id	length	x_count	x_fraction	description
+ERX552274.30|contig_19128_12|MM01	991	111	0.11200807265388496	ERX552274.30|contig_19128_12|MM01 source=viral family=TCA_cycle_Succ_Dhydrogenase_subunit_C mag=ERX552274.30 protein=contig_19128_12 clade=MM01
+ERX555978.8|contig_10978_18|MM01	832	100	0.1201923076923077	ERX555978.8|contig_10978_18|MM01 source=viral family=TCA_cycle_Succ_Dhydrogenase_subunit_C mag=ERX555978.8 protein=contig_10978_18 clade=MM01
+ERX288973.1|contig_356_12|MM01	555	87	0.15675675675675677	ERX288973.1|contig_356_12|MM01 source=viral family=TCA_cycle_Succ_Dhydrogenase_subunit_C mag=ERX288973.1 protein=contig_356_12 clade=MM01

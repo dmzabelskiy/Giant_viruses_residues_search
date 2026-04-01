@@ -1,0 +1,10 @@
+metric	value
+family	TCA_succinate_dehydrogenase_subunit_A
+n_alignment_sequences	188
+n_viral_sequences	14
+n_cellular_sequences	174
+n_positions	894
+n_passes_gap_filter	506
+n_eligible_positions	487
+n_rankpct_high_confidence	31
+n_rankpct_moderate_confidence	38
