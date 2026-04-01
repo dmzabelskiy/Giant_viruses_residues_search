@@ -27,5 +27,8 @@ figures/
 data/results/sod/pdbaa.phr
 data/results/sod/pdbaa.tar.gz
 data/results/sod/taxdb.btd
+data/results/sod/pdbaa.*
+data/results/sod/taxdb.bti
+data/results/sod/taxonomy4blast.sqlite3
 
 # Keep large raw side directories and generated artifacts out of the repo by default.
