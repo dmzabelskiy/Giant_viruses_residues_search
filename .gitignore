@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Project data and generated outputs
+data/
+initial_raw/
+logs/
+figures/
+
+# Keep the repository lightweight by tracking code and documentation only.
